@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: "Audiowide", sans-serif;
+}
+body{
+  background-color: rgb(107, 229, 242);
+}
+.button{
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 15px;
+  cursor: pointer;
+  width: 60px;
+  background-color: lightblue;
+}
+.row{
+  margin: 6px 0;
+}
+.row input{
+  border: 2.5px solid black;
+  border-radius: 7px;
+}
